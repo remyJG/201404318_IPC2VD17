@@ -1,0 +1,11 @@
+-Que entiende como "commit"?
+	es la forma de guardar los cambios realizados en un repositorio pero de forma local,
+	es decir que solo quedan guardados en la maquina en la que estas trabajando.
+
+-Que entiende como "merge"?
+	es el comando utilizado para unir o fusionar una rama con otra que este activa.
+
+-Cual es la diferencia ente "Pull" y "Push"?
+	la diferencia es que "push" se utiliza para subir los cambios o commits al 
+	repositorio remoto, mientras que "pull" baja u obtiene los commits realizados
+	anteriormente, del repositorio remoto a tu maquina.
