@@ -1,0 +1,21 @@
+Modelo en Cacada:
+El modelo de ciclo de vida en cascada se comenzo a dise;ar en 1966 y se termino alrededor
+de 1970. Esta metodologia es lineal y se define como una secuencia de fases donde al final 
+de cada una de ellas se reune la documentacion para garantizar que cumple las 
+especificaciones y los requisitos antes de pasar a la fase siguiente. Esta compuesta por las
+siguientes fases:
+-requerimientos
+-diseño
+-implementacion y desarrollo
+-integracion
+-pruebas o validacion
+-despliegue o instalacion
+-mantenimiento
+
+si se realiza un analisis de requerimientos, avanzamos a diseñar el programa y ya estamos
+en el desarrollo y de momento el cliente nos dice que desea modificar los requerimientos,
+por ser un modelo en cascada, no es posible volver atras; por lo tanto se tendria que 
+reiniciar el proyecto o bien concluirlo y ver como queda el software al final. Es una 
+metodología lineal en cascada y si no se completa cada una de las fases al 100%, no es
+posible avanzar a la fase que sigue, así es como funciona y se debe seguir al pie de la 
+letra, por muy exagerado que esta parezca.

@@ -1,0 +1,23 @@
+Ciclo de Vida del Software:
+
+Analisis de Requerimientos:se analizan los requerimientos que el cliente pide para la
+elaboracion del sistema, de esta manera se podra entender la idea que el cliente propone,
+realizar una planificacion e incluso determinar los tiempos de desarrollo que se necesitan
+para llevar a cabo el proyecto.
+
+Diseño:al tener una idea clara de lo que el cliente desea, se procede a la elaboracion de
+todos los modelos, diagramas, y demas que serviran de guia para la elaboracion del proyecto.
+
+Desarrollo:se trata de codificar o desarrollar el proyecto o sistema que se necesita, sin
+importar el lenguaje de programacion mediante el cual se vaya a elaborar.
+
+Pruebas:durante el tiempo que el sistema se va desarrollando es importante que se realicen 
+ciertas pruebas conforme se va avanzando, con ello podremos verificar si el sistema es
+funcional, si posee algun tipo de error, o si faltan por cumplir requerimientos
+especificados desde el inicio.
+
+Implementacion:se procedera a instalar el software, proyecto o sistema, comprobar en tiempo
+real (ya sea con carga masiva) que el mismo funcione correctamente.
+
+Mantenimiento:comprende todos los procedimientos correctivos y las actualizaciones
+secundarias o mejoras al sistema o proyecto.

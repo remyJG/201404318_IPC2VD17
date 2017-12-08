@@ -1,0 +1,19 @@
+Modelo Iterativo Incremental:
+es un modelo derivado del cilo de vida en cascada. Este modelo busca reducir el riesgo que 
+surge entre las necesidades dle usuario y el producto final, ya sea por falta de
+entendimiento por parte del cliente o del analista.
+
+consiste en un desarrollo iterativo del proyecto, el cual se planifica en diversos bloques
+temporales, llamados iteraciones. las iteraciones se pueden entender como miniproyectos: en
+todas las iteraciones se repite un proceso de trabajo similar para proporcionar un resultado
+completo sobre el producto final, de manera que el cliente pueda obtener los beneficios de
+forma incremental.Para ello, cada requisito se debe completar en una única iteración: el 
+equipo debe realizar todas las tareas necesarias para completarlo (incluyendo pruebas y 
+documentación) de esta manera no se deja para el final del proyecto ninguna actividad 
+relacionada con la entrega de requisitos.
+
+En cada iteración el equipo evoluciona el producto (hace una entrega incremental) a partir
+de los resultados completados en las iteraciones anteriores, añadiendo nuevos 
+objetivos/requisitos o mejorando los que ya fueron completados. Un aspecto fundamental para
+guiar el desarrollo iterativo e incremental es la priorización de los objetivos/requisitos 
+en función del valor que aportan al cliente.
